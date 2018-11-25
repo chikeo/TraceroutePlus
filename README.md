@@ -27,6 +27,6 @@ Working
 
 Steps to execute
 ----------------
-In the application directory, run the following command and follow the instructions:
+From the application's root directory, cd into the "dist" directory and run the following command. Then follow the instructions:
 java -jar TraceroutePlus.jar "yahoo.com"
 
